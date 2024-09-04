@@ -15,7 +15,7 @@ input_path = "dbfs:/mnt/upgradtrendenceadls/delta/files/"
 # MAGIC
 
 # COMMAND ----------
-
+#change the schema
 from pyspark.sql.functions import *
 
 # COMMAND ----------
